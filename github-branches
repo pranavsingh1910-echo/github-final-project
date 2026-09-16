@@ -1,0 +1,5 @@
+C:\Users\prana>git branch -vv
+
+  bug-fix-revert  c4510b3 Create simple-interest.sh
+  bug-fix-typo    1ce420e Fix typo in README.md
+* main            012b556 Initial commit
